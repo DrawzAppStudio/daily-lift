@@ -1,0 +1,13 @@
+{
+  "name": "Daily Lift",
+  "short_name": "Daily Lift",
+  "description": "A simple daily positive boost.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#b6ff00",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
