@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#220044"/>
-  <circle cx="256" cy="256" r="154" fill="#6f20d8"/>
-  <path d="M166 298c27-72 52-123 88-158 18 18 34 42 46 72 22-10 43-13 63-8-6 51-29 91-69 120-32 23-69 32-112 28 18-14 31-32 39-54-22 5-40 5-55 0z" fill="#fff"/>
-  <circle cx="298" cy="190" r="15" fill="#220044"/>
-  <text x="256" y="420" text-anchor="middle" font-family="Arial,sans-serif" font-size="58" font-weight="900" fill="#fff">LIVE</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#6f20d8"/><circle cx="256" cy="225" r="135" fill="#fff"/><polygon points="256,168 309,207 289,270 223,270 203,207" fill="#11121a"/><path d="M256 90v78M128 183l75 24M177 332l46-62M335 332l-46-62M384 183l-75 24" stroke="#11121a" stroke-width="22" fill="none"/><text x="256" y="438" text-anchor="middle" font-family="Arial,sans-serif" font-size="58" font-weight="900" fill="#fff">PL LIVE</text></svg>
