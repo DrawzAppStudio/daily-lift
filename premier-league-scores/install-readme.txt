@@ -1,1 +1,0 @@
-PL Live installability assets are being finalized.
