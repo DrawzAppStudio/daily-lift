@@ -1,0 +1,13 @@
+{
+  "name": "Premier League Live Scores",
+  "short_name": "PL Live",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08050f",
+  "theme_color": "#15002e",
+  "description": "Live Premier League scores, goal scorers and significant match updates.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
